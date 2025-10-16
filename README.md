@@ -19,5 +19,5 @@
 
 ## 📈 GitHub Stats
 
-![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true&theme=github_dark)
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev&layout=compact&theme=github_dark)
