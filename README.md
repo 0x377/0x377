@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Alex!
+<h1 algin="center">Hi there 👋, I'm Ahmed Gamal!</h1>
 
-I'm a passionate full-stack developer from [Your Country] 🇺🇸
+## I'm a passionate software developer & tester
 
 ## 🚀 About Me
 
