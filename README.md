@@ -1,9 +1,9 @@
 <h1 align="center" style="font-family:Segoe UI, sans-serif; color:#36CFC9;">
-  👋 Hi there, I'm <span style="color:#FF69B4;">Ahmed Gamal</span>!
+  👋 Hi there, I'm <span style="color:#FF69B4;">Ahmed Gamal</span>
 </h1>
 
 <p align="center" style="font-size:18px; color:#CCCCCC;">
-  🚀 A passionate <strong style="color:#FFD700;">software developer & tester</strong> who loves building, breaking, and learning stuff!
+  🚀 A passionate <strong style="color:#FFD700;">software developer & tester</strong>
 </p>
 
 <hr style="border: 1px solid #444444;">
@@ -56,12 +56,11 @@
 <h2 style="color:#00FFFF;">📫 Let's Connect</h2>
 
 <ul style="list-style:none; font-size:16px; color:#DDDDDD;">
-  <li>🔗 <a href="https://www.linkedin.com/in/your-profile" style="color:#0e76a8;">LinkedIn</a></li>
+  <li>🔗 <a href="https://www.linkedin.com/in/ahmed-gamal-078838277" style="color:#0e76a8;">LinkedIn</a></li>
   <li>🌐 <a href="https://your-portfolio.com" style="color:#20B2AA;">Portfolio</a></li>
-  <li>📧 <a href="mailto:your.email@example.com" style="color:#FF6347;">your.email@example.com</a></li>
+  <li>📧 <a href="mailto:ahmedgamalsayed.987@gmail.com" style="color:#FF6347;">ahmedgamalsayed.987@gmail.com</a></li>
 </ul>
 
 <hr style="border: 1px solid #444444;">
 
 <p align="center" style="color:#CCCCCC;">⭐ Thanks for visiting my profile!</p>
-
